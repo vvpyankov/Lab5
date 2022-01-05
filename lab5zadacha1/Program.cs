@@ -22,7 +22,7 @@ namespace lab5zadacha1
             }
             Console.WriteLine();
             med = s / 7;
-            Console.WriteLine("Среднее арифметическое масиива: {0:f2}", med);
+            Console.WriteLine("Среднее арифметическое масиива: {0:f1}", med);
             Console.ReadKey();
         }
     }
